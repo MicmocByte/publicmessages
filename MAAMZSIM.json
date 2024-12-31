@@ -5,12 +5,12 @@
              "msg":"Error occurs",
              "delay_min":3,
              "delay_max": 5,
-             "enable": true
+             "enable": false
         },
         {
-            "name": "popup",
-            "msg": "some Error",
-            "enable": false
+            "delay_min":3,
+             "delay_max": 5,
+            "enable": true
         }
     ]
 }
