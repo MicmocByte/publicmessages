@@ -1,0 +1,13 @@
+{
+    "settings":[
+        {
+            "name": "expire",
+             "expire_date": "2025-05-23",
+             "msg":"Error occurs",
+        },
+        {
+            "name": "popup",
+            "msg": "some Error"
+        }
+    ]
+}
