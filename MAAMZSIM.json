@@ -1,13 +1,16 @@
 {
+    "state": "ok1",
     "settings":[
         {
-            "name": "expire",
-             "expire_date": "2025-05-23",
              "msg":"Error occurs",
+             "delay_min":3,
+             "delay_max": 5,
+             "enable": true
         },
         {
             "name": "popup",
-            "msg": "some Error"
+            "msg": "some Error",
+            "enable": false
         }
     ]
 }
